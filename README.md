@@ -1,4 +1,8 @@
-# Battlezone Combat Commander Patch Notes
+<p align="center">
+  <img width="80%" src="./BZCC.png">
+</p>
+
+# Patch Notes
 A centralized repository for tracking patch notes, version updates, and changelogs across Battlezone Combat Commander.
 
 ### Updated Files
