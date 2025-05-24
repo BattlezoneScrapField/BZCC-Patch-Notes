@@ -13,7 +13,6 @@ A list of files that were updated since `2.0.185.0`:
 | `launch.ini`         | Added command line argument `/modid`. If set to a Workshop ID, it initializes the game’s `launch.ini` to that mod, activating it on startup. |
 | `localization_table.csv` | Variety of localization updates. |
 | `bzgame_init.cfg`    | Split up `bzgame_init.cfg` into 4 new cfgs: `bzgame_init_color.cfg`, `bzgame_init_cursor.cfg`, `bzgame_init_font.cfg`, and `bzgame_init_sound.cfg`. These 4 are called from the root `bzgame_init.cfg`. Commented out the lines in the stock `bzgame_init.cfg` |
-| `bzgame_keys.cfg`    | Fixed `bzgame_keys.cfg` not being executed in the correct scale mode. |
 | `bzshell_loadbar.cfg`    | Added support for LoadBar to be configurable by cfg. |
 | `bzgame_moves.cfg`   | Removed deprecated config `bzgame_moves.cfg` and commented out unused variables in `Gameprefs.ini`. |
 | `shieldeffect.odf`   | Added `noFirstPerson = true` parameter under `[ShieldUpgradeClass]`. Overrides default effect behavior in `shieldeffect.odf`. |
