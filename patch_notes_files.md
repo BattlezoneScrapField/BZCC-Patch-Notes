@@ -12,7 +12,7 @@ A list of files that were updated since `2.0.185.0`:
 | `bzgame_init.cfg`    | Split up `bzgame_init.cfg` into 4 new cfgs: `bzgame_init_color.cfg`, `bzgame_init_cursor.cfg`, `bzgame_init_font.cfg`, and `bzgame_init_sound.cfg`. These 4 are called from the root `bzgame_init.cfg`. Commented out the lines in the stock `bzgame_init.cfg` |
 | `bzshell_loadbar.cfg`    | Added support for LoadBar to be configurable by cfg. |
 | `bzgame_moves.cfg`   | Removed deprecated config `bzgame_moves.cfg` and commented out unused variables in `Gameprefs.ini`. |
-| `shieldeffect.odf`   | Added `noFirstPerson = true` parameter under `[ShieldUpgradeClass]`. Overrides default effect behavior in `shieldeffect.odf`. |
+| `bzgame_satellite.cfg` | Added Center Base and Center Player buttons to SatellitePanel UI, and also set them to use style "RIGHTTAB".|
 | `sprayeffect.odf`   | The system still uses dusttrail.odf for ground, and spraypuff.odf for water. Created a new odf to calibrate the dust system, `sprayeffect.odf`. |
 | `g_fflash.xsi`       | Added missing mesh `g_fflash.xsi` used for muzzle flash effects. |
 | `flash.tga`          | Referenced in relation to `g_fflash.xsi` for muzzle flash texture usage. |
