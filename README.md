@@ -8,7 +8,7 @@ A centralized repository for tracking patch notes, version updates, and changelo
 Some of the following changes were separately categorized, and you can view them here:
 - **[Read updates to Lua](patch_notes_lua.md)**
 - **[Read updates to ODFs](patch_notes_odf.md)**
-- **[Read updates to game files](patch_notes_files.md)**
+- **[Read updates to BZ2R files](patch_notes_files.md)**
 
 ## Changelog - Build 2.0.186.0:
 - Attempt to make VarScope DeleteItem more robust against CRC Collisions. (NODELETE crash)
